@@ -1,0 +1,19 @@
+.body_background
+{
+    background-size: contain;
+    background-position: center;
+    background:url(Grass.jpg);
+}
+#hd3
+{
+    background-color: aliceblue;
+    font-family: 'Courier New';
+    color: crimson;
+    display: inline-block;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-color: green;
+    border-style: ridge;
+}
